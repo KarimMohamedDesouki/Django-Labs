@@ -62,4 +62,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 [License information, e.g., MIT License, Apache License 2.0, etc.]
 
 © [2024] [KarimMohamed]
-"# Django-Labs" 
